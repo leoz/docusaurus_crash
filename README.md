@@ -1,6 +1,6 @@
 # docusaurus_crash
 
-Steps to repordice the issue:
+Steps to reproduce the issue:
 
 ```bash
 git clone https://github.com/leoz/docusaurus_crash.git
